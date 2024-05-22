@@ -12,6 +12,15 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        "Dark-cyan": "hsl(185, 75%, 39%)",
+        "dark-desaturated-blue": "hsl(229, 23%, 23%)",
+        "Dark-grayish-blue": "hsl(227, 10%, 46%)",
+        "Dark-gray": "hsl(0, 0%, 59%)",
+      },
+    },
+    fontFamily: {
+      kumbh: ["Kumbh Sans", "sans-serif"],
     },
   },
   plugins: [],
